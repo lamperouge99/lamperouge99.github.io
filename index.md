@@ -1,3 +1,5 @@
+![N予備校ロゴ](N予備校ロゴ.png)
+
 # About
 lamperouge99  
 プログラミング勉強中
